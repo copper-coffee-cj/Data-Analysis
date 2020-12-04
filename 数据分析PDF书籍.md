@@ -1,6 +1,3 @@
-下方的电子书如果有链接失效了，随时联系我噢，扫描下方的二维码关注公众号[「Python读财」](https://mp.weixin.qq.com/s/LarikGuhaAvUZ6sqWDFShw)，后台留言失效的链接，我在看到后会更新！
-
-![image](https://github.com/Harry3W/Data-Analysis/blob/master/%E5%BA%95%E9%83%A8%E4%BA%8C%E7%BB%B4%E7%A0%811.png)
 
 # 数据分析PDF书籍
 
@@ -35,15 +32,6 @@
 - 《NumPy攻略__Python科学计算与数据分析》  [百度云链接](https://pan.baidu.com/s/1SerJoxOGzXkyLtJH5WmH2g)  提取码：t8qm
 - 《NumPy_Cookbook》  [百度云链接](https://pan.baidu.com/s/1bLbv2SGPhOaNhuqkMippcw)  提取码：jfc3
 - 《Matplotlib Plotting Cookbook》  [百度云链接](https://pan.baidu.com/s/1P_l56evSqpbnN4B4CKak6g)  提取码：zh1s
-
-
-
-## SQL
-
-- 《MySQL必知必会（文字版）》  [百度云链接](https://pan.baidu.com/s/1kBa9VGFwN4qZpEyvIs2V8w)  提取码：j9wq
-- 《高性能MySQL（第3版）》  [百度云链接](https://pan.baidu.com/s/1XC_c1118mcHOJvpET1dqPQ)  提取码：idns
-- 《Hive编程指南[书签版]》  [百度云链接](https://pan.baidu.com/s/1fg8zFz9p3U8SfM5BYiyIeQ)  提取码：4lwf
-
 
 
 ## 业务书籍
